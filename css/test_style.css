@@ -22,6 +22,11 @@ header {
   margin-bottom: -1px;
 }
 
+.nav_link {
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
 .nav_link:hover {
   color: #5d91d5 !important; 
 }
